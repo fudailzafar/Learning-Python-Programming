@@ -9,8 +9,6 @@ Welcome to my Python programming journey, inspired by the Apna College YouTube c
 - [Learning Resources](#learning-resources)
 - [Topics Covered](#topics-covered)
 - [How to Use This Repository](#how-to-use-this-repository)
-- [Contributions](#contributions)
-- [License](#license)
 
 ## About
 
