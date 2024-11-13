@@ -1,6 +1,6 @@
 # Python Programming Journey with Apna College
 
-Welcome to my Python programming journey, inspired by the Apna College YouTube channel. This repository contains a collection of Python programs that I created while learning the basics to advanced concepts in Python. The aim is to master problem-solving and develop a solid foundation in programming with Python.
+Welcome to my Python programming journey, inspired by the Apna College YouTube channel. This repository contains a collection of Python programs that I created while learning the basic concepts of Python. My aim is to master problem-solving and develop a solid foundation in programming with Python.
 
 ## Table of Contents
 
@@ -20,13 +20,26 @@ Python is one of the most popular programming languages, known for its simplicit
 
 ### Key Advantages:
 - **Easy to Learn and Use**: Python’s syntax is simple and readable, making it a great language for beginners.
-- **Versatile**: From web development to AI and data science, Python is used in a variety of fields.
-- **Rich Ecosystem**: Python has a vast collection of libraries and frameworks that accelerate development in different domains.
+- **Versatile**: From web development to AI and data science, Python is used in various fields.
+- **Rich Ecosystem**: Python has many libraries and frameworks that accelerate development in different domains.
 
 ## Learning Resources
 
 - **Apna College YouTube Channel**: The primary resource for this journey.
-  - [Python Language Course Playlist](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+  - [Python Language Course Playlist]([https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ](https://youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&feature=shared))
+
+## Topics Covered
+
+This repository includes various topics covered in the Apna College Python course:
+- **Variables & Data Types**
+- **Strings & Conditionals**
+- **List & Tuples**
+- **Dictionary & Sets**
+- **Loops**
+- **Functions & Recursion**
+- **File I/O**
+- **OOPS**
+- **Mini Projects**
 
 ## How to Use This Repository
 
@@ -45,14 +58,3 @@ Python is one of the most popular programming languages, known for its simplicit
      ```bash
      python program_name.py
      ```
-
-## Topics Covered
-
-This repository includes various topics covered in the Apna College Python course:
-- **Basic Syntax and Variables**
-- **Data Structures (Lists, Tuples, Dictionaries, Sets)**
-- **Control Flow (Loops, Conditionals)**
-- **Functions and Modules**
-- **Object-Oriented Programming**
-- **File Handling**
-- **Libraries (e.g., NumPy, Pandas for data handling)**
