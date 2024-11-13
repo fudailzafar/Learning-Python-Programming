@@ -26,7 +26,7 @@ Python is one of the most popular programming languages, known for its simplicit
 ## Learning Resources
 
 - **Apna College YouTube Channel**: The primary resource for this journey.
-  - [Python Language Course Playlist]([https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ](https://youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&feature=shared))
+  - [Python Language Full Course](https://youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0&feature=shared)
 
 ## Topics Covered
 
